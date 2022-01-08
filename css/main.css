@@ -222,9 +222,9 @@ a:active,
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
   padding-right: 20px;
-  -webkit-transition: all 0.3 ease-in;
-  -o-transition: all 0.3 ease-in;
-  transition: all 0.3 ease-in;
+  -webkit-transition: all 0.3s ease-in;
+  -o-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
   background-color: #fff;
 }
 
